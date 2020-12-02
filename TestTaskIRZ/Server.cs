@@ -12,12 +12,9 @@ namespace TestTaskIRZ
     {
         private string connectIsSuccessfull()
         {
-            return "Hi,great job, you have been find correct Port,\n but it's not end,you need find correct user for continue";
+            return "great job";
         }
-        private string Help()
-        {
-            return "you need make code review for find correct user";
-        }
+       
         /// <summary>
         /// generate random port for connect
         /// </summary>
@@ -55,7 +52,7 @@ namespace TestTaskIRZ
                     while (handler.Available > 0);
                     Console.WriteLine(DateTime.Now.ToShortTimeString() + ": " + builder.ToString());
                     byte[] WelcomeData = new byte[256];
-                    WelcomeData = Encoding.Unicode.GetBytes(connectIsSuccessfull() + "\n" + Help());
+                    WelcomeData = Encoding.Unicode.GetBytes(connectIsSuccessfull());
                     handler.Send(WelcomeData);
                 }
             }

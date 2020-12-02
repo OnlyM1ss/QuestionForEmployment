@@ -25,13 +25,13 @@ namespace TestTaskIRZ
         private int GeneratePort()
         {
             Random random = new Random();
-            return random.Next(4000, 7000);
+            return random.Next(10000, 15000);
         }
         public void RunServer()
         {
             IPEndPoint ipPoint = new IPEndPoint(IPAddress.Parse("127.0.0.1"), GeneratePort());
-                while (true)
-                {
+            while (true)
+            {
                 using (Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp))
                 {
                     socket.Bind(ipPoint);
@@ -58,7 +58,7 @@ namespace TestTaskIRZ
                     WelcomeData = Encoding.Unicode.GetBytes(connectIsSuccessfull() + "\n" + Help());
                     handler.Send(WelcomeData);
                 }
-                }
+            }
         }
     }
 }

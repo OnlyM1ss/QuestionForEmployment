@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nick\\source\\repos\\TestTaskIRZ\\TestTaskIRZ\\TestTaskIRZ.csproj",
+      "projectUniqueName": "C:\\Users\\Nick\\QuestionForEmployment\\TestTaskIRZ\\TestTaskIRZ.csproj",
       "projectName": "TestTaskIRZ",
-      "projectPath": "C:\\Users\\Nick\\source\\repos\\TestTaskIRZ\\TestTaskIRZ\\TestTaskIRZ.csproj",
+      "projectPath": "C:\\Users\\Nick\\QuestionForEmployment\\TestTaskIRZ\\TestTaskIRZ.csproj",
       "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nick\\source\\repos\\TestTaskIRZ\\TestTaskIRZ\\obj\\",
+      "outputPath": "C:\\Users\\Nick\\QuestionForEmployment\\TestTaskIRZ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config",

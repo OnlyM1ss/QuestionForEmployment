@@ -11,3 +11,16 @@ C:\Users\Nick\source\repos\TestTaskIRZ\TestTaskIRZ\obj\Debug\net5.0\TestTaskIRZ.
 C:\Users\Nick\source\repos\TestTaskIRZ\TestTaskIRZ\obj\Debug\net5.0\TestTaskIRZ.dll
 C:\Users\Nick\source\repos\TestTaskIRZ\TestTaskIRZ\obj\Debug\net5.0\TestTaskIRZ.pdb
 C:\Users\Nick\source\repos\TestTaskIRZ\TestTaskIRZ\obj\Debug\net5.0\TestTaskIRZ.genruntimeconfig.cache
+C:\Users\Nick\QuestionForEmployment\TestTaskIRZ\bin\Debug\net5.0\TestTaskIRZ.exe
+C:\Users\Nick\QuestionForEmployment\TestTaskIRZ\bin\Debug\net5.0\TestTaskIRZ.deps.json
+C:\Users\Nick\QuestionForEmployment\TestTaskIRZ\bin\Debug\net5.0\TestTaskIRZ.runtimeconfig.json
+C:\Users\Nick\QuestionForEmployment\TestTaskIRZ\bin\Debug\net5.0\TestTaskIRZ.runtimeconfig.dev.json
+C:\Users\Nick\QuestionForEmployment\TestTaskIRZ\bin\Debug\net5.0\TestTaskIRZ.dll
+C:\Users\Nick\QuestionForEmployment\TestTaskIRZ\bin\Debug\net5.0\TestTaskIRZ.pdb
+C:\Users\Nick\QuestionForEmployment\TestTaskIRZ\obj\Debug\net5.0\TestTaskIRZ.csprojAssemblyReference.cache
+C:\Users\Nick\QuestionForEmployment\TestTaskIRZ\obj\Debug\net5.0\TestTaskIRZ.AssemblyInfoInputs.cache
+C:\Users\Nick\QuestionForEmployment\TestTaskIRZ\obj\Debug\net5.0\TestTaskIRZ.AssemblyInfo.cs
+C:\Users\Nick\QuestionForEmployment\TestTaskIRZ\obj\Debug\net5.0\TestTaskIRZ.csproj.CoreCompileInputs.cache
+C:\Users\Nick\QuestionForEmployment\TestTaskIRZ\obj\Debug\net5.0\TestTaskIRZ.dll
+C:\Users\Nick\QuestionForEmployment\TestTaskIRZ\obj\Debug\net5.0\TestTaskIRZ.pdb
+C:\Users\Nick\QuestionForEmployment\TestTaskIRZ\obj\Debug\net5.0\TestTaskIRZ.genruntimeconfig.cache
